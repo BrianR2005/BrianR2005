@@ -2,7 +2,7 @@
 - 👀 I’m interested in application development
 - 🌱 I’m currently learning Python and web development
 - 💞️ I’m looking to collaborate to make a game
-- 📫 How to reach me: gryphongyoza@gmail.com
+- 📫 How to reach me: ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
 
